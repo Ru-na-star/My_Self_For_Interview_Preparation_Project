@@ -10,7 +10,7 @@ public class LearnString {
 
     public static void main(String[] args) {
         String BurgerName="American Burger";
-        System.out.println(BurgerName.concat(BurgerName));
+        System.out.println(BurgerName.substring(4));
 try{
     System.out.println(BurgerName.charAt(4));
 
